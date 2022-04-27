@@ -1,7 +1,16 @@
 - 👋 Hi, I’m @tahaalmakawie
-- 👀 I started in the field of programming, especially web development, and I loved to be a specialist in the field of front-end development, and here I am now.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 Innovative front end developer with 1 year experience in construction and
+
+Maintaining responsive websites in the recruitment industry. proficient in HTML,
+
+CSS, Bootstrap, JavaScript, and React as well as modern libraries and frameworks.
+
+ and superficial knowledge of php.
+
+Passionate about usability and has working knowledge of Adobe
+
+Photo shop"
+- 🌱 I’m currently learning Redux
 - 📫 My linkedin acounte:- https://www.linkedin.com/in/taha-al-makawie-996773237/
 
 <!---
