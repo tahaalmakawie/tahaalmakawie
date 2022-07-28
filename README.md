@@ -10,7 +10,7 @@ CSS, Bootstrap, JavaScript, and React as well as modern libraries and frameworks
 Passionate about usability and has working knowledge of Adobe
 
 Photo shop"
-- 🌱 I’m currently learning Redux
+- 🌱 I’m currently learning node.js
 - 📫 My linkedin acounte:- https://www.linkedin.com/in/taha-al-makawie-996773237/
 
 <!---
